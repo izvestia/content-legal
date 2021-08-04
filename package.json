@@ -17,5 +17,14 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "get-value": "^3.0.1",
+    "has-value": "^2.0.2",
+    "merge-value": "^1.0.0",
+    "set-value": "^4.0.0",
+    "union-value": "^2.0.1"
   }
 }
